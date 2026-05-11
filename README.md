@@ -9,3 +9,6 @@ Chud Clicker is a Cookie Clicker inspired game that my group and i created durin
 #Running the game
 All you need is to have python and pygame installed in your environment, then launch the game through the main.py file. 
 
+Graphics - Brendley 
+Programming - Brendley
+Programming - Gavin 
